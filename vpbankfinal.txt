@@ -1,0 +1,59 @@
+TOTAL: 601
+Quảng Nam  1
+  16
+Thái Bình  1
+Hà Nam  2
+An Giang  6
+Lào Cai  1
+Lâm Đồng  1
+Hồ Chí Minh  118
+Thái Bình  12
+Hà Nội  1
+Vĩnh Phúc  5
+Hải Dương  7
+Đăk Lăk  1
+Park 6 – Shophouse 10 – Vinhomes Central Park  1
+Khánh Hòa  2
+Hòa Bình  10
+Thừa Thiên Huế  7
+Vĩnh Long  2
+Nghệ An  6
+Đà Nẵng  13
+Bắc Giang  22
+Bà Rịa Vũng Tàu  1
+Bình Định  3
+Ninh Bình  3
+Quảng Trị  3
+Tiền Giang  2
+Hoàn Kiếm  1
+Hà Đông  1
+thành phố Hải Phòng  1
+Nam Định  19
+Hưng Yên  3
+KCN Long Hậu Mở Rộng - Xã Long Hậu- Huyện cần Giuộc- Long An  1
+thành phố Hồ Chí Minh  1
+Cà Mau  2
+Đồng Tháp  3
+Hải Phòng  15
+Bình Thuận  3
+thành phố Hà Nội  3
+Vietnam  2
+Quảng Ninh  8
+Long An  9
+Thanh Hóa  10
+Tây Ninh  2
+Đồng Nai  18
+Bắc Ninh  10
+Lạng Sơn  1
+Hà Tĩnh  5
+Phú Thọ  8
+thành phố Cần Thơ  1
+Quảng Bình  5
+Bình Dương  16
+Bình Phước  1
+Vũng Tàu  1
+Hà Nội  185
+Thái Nguyên  4
+Gia Lai  1
+Kiên Giang  8
+Cần Thơ  6
